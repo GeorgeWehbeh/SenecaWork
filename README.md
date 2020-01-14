@@ -1,0 +1,2 @@
+# SenecaWork
+Assignments, workshops... etc
